@@ -1,0 +1,3 @@
+module Artillery
+
+end
